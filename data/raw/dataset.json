@@ -1,0 +1,164 @@
+[
+    {
+        "title": "iPhone 15",
+        "category": "Products",
+        "content": "iPhone 15 128GB modeli narxi 9 500 000 so'm. Ranglari: qora, ko'k, pushti va sariq. Displeyi 6.1 dyuym. USB-C portiga ega. Mahsulot yangi va original.",
+        "source": "products"
+    },
+    {
+        "title": "iPhone 15 Pro",
+        "category": "Products",
+        "content": "iPhone 15 Pro 256GB modeli narxi 14 500 000 so'm. Ranglari: Natural Titanium, Blue Titanium, White Titanium va Black Titanium. A17 Pro chipidan foydalanadi. Mahsulot yangi va original.",
+        "source": "products"
+    },
+    {
+        "title": "iPhone 15 Pro Max",
+        "category": "Products",
+        "content": "iPhone 15 Pro Max 256GB modeli narxi 16 000 000 so'm. Displeyi 6.7 dyuym. A17 Pro chipiga ega. Kamera tizimi va batareya imkoniyatlari kengaytirilgan.",
+        "source": "products"
+    },
+    {
+        "title": "Samsung Galaxy S24",
+        "category": "Products",
+        "content": "Samsung Galaxy S24 256GB modeli narxi 8 900 000 so'm. Displeyi 6.2 dyuym. Galaxy AI funksiyalarini qo'llab-quvvatlaydi. Ranglari: qora, kulrang va binafsha.",
+        "source": "products"
+    },
+    {
+        "title": "Samsung Galaxy A55",
+        "category": "Products",
+        "content": "Samsung Galaxy A55 256GB modeli narxi 5 200 000 so'm. 6.6 dyuymli Super AMOLED displeyga ega. 5000 mAh batareya bilan jihozlangan.",
+        "source": "products"
+    },
+    {
+        "title": "MacBook Air M3",
+        "category": "Products",
+        "content": "MacBook Air M3 13 dyuymli modeli narxi 14 000 000 so'm. RAM 16GB, SSD 256GB. Apple M3 chipidan foydalanadi. Dasturlash, o'qish va kundalik ishlar uchun mos.",
+        "source": "products"
+    },
+    {
+        "title": "MacBook Pro M3",
+        "category": "Products",
+        "content": "MacBook Pro M3 14 dyuymli modeli narxi 22 000 000 so'm. RAM 18GB, SSD 512GB. Professional dasturlash, video montaj va grafik ishlar uchun mos.",
+        "source": "products"
+    },
+    {
+        "title": "ASUS TUF Gaming F15",
+        "category": "Products",
+        "content": "ASUS TUF Gaming F15 laptopi narxi 12 500 000 so'm. Intel Core i7 protsessor, 16GB RAM, 512GB SSD va NVIDIA RTX 4050 grafik kartasiga ega.",
+        "source": "products"
+    },
+    {
+        "title": "Lenovo IdeaPad 3",
+        "category": "Products",
+        "content": "Lenovo IdeaPad 3 laptopi narxi 6 200 000 so'm. AMD Ryzen 5 protsessor, 8GB RAM va 512GB SSD bilan jihozlangan. O'qish va ofis ishlari uchun mos.",
+        "source": "products"
+    },
+    {
+        "title": "AirPods Pro 2",
+        "category": "Products",
+        "content": "AirPods Pro 2 simsiz quloqchini narxi 3 200 000 so'm. Active Noise Cancellation va Transparency Mode funksiyalariga ega. USB-C zaryadlash qutisi bilan sotiladi.",
+        "source": "products"
+    },
+    {
+        "title": "JBL Tune 770NC",
+        "category": "Products",
+        "content": "JBL Tune 770NC quloqchini narxi 1 100 000 so'm. Simsiz Bluetooth ulanishi va shovqinni kamaytirish funksiyasiga ega. Batareyasi 70 soatgacha ishlashi mumkin.",
+        "source": "products"
+    },
+    {
+        "title": "Xiaomi Redmi Buds 5",
+        "category": "Products",
+        "content": "Xiaomi Redmi Buds 5 simsiz quloqchini narxi 450 000 so'm. Bluetooth orqali ulanadi. Active Noise Cancellation funksiyasiga ega.",
+        "source": "products"
+    },
+    {
+        "title": "Delivery Policy",
+        "category": "Delivery",
+        "content": "Toshkent shahri bo'ylab yetkazib berish 1-2 ish kuni davom etadi. Yetkazib berish narxi 30 000 so'm. Boshqa viloyatlarga 2-5 ish kuni ichida yetkaziladi. 2 000 000 so'mdan yuqori buyurtmalar uchun Toshkent shahri bo'ylab yetkazib berish bepul.",
+        "source": "delivery_policy"
+    },
+    {
+        "title": "Delivery Tracking",
+        "category": "Delivery",
+        "content": "Buyurtma jo'natilgandan so'ng mijozga buyurtma holati haqida xabar beriladi. Yetkazib berish jarayonini aniqlashtirish uchun buyurtma raqami bilan menejerga murojaat qilish mumkin.",
+        "source": "delivery_tracking"
+    },
+    {
+        "title": "Payment Methods",
+        "category": "Payment",
+        "content": "TechStore do'konida naqd pul, bank kartasi, Click va Payme orqali to'lov qilish mumkin. Buyurtma uchun to'lov yetkazib berish vaqtida yoki oldindan amalga oshiriladi.",
+        "source": "payment_policy"
+    },
+    {
+        "title": "Installment Payment",
+        "category": "Payment",
+        "content": "Muddatli to'lov imkoniyatlari mavjudligi mahsulot va hamkor moliyaviy xizmat shartlariga bog'liq. Aniq muddat, boshlang'ich to'lov va oylik to'lov haqida menejerdan ma'lumot olish kerak.",
+        "source": "installment_policy"
+    },
+    {
+        "title": "Return Policy",
+        "category": "Returns",
+        "content": "Mahsulotni xarid qilingan kundan boshlab 10 kun ichida qaytarish uchun murojaat qilish mumkin. Mahsulot ishlatilmagan, tashqi ko'rinishi va qadoqlari saqlangan bo'lishi kerak. Qaytarish imkoniyati mahsulot holati va amaldagi qoidalarga qarab tekshiriladi.",
+        "source": "return_policy"
+    },
+    {
+        "title": "Exchange Policy",
+        "category": "Returns",
+        "content": "Mijoz mahsulotni boshqa model yoki rangga almashtirish bo'yicha murojaat qilishi mumkin. Almashtirish mahsulot mavjudligi va holatiga bog'liq.",
+        "source": "exchange_policy"
+    },
+    {
+        "title": "Warranty Policy",
+        "category": "Warranty",
+        "content": "TechStore do'konidagi yangi elektronika mahsulotlariga 12 oylik kafolat beriladi. Kafolat ishlab chiqarish nuqsonlarini qamrab oladi. Mexanik shikastlanish va noto'g'ri foydalanish natijasidagi nosozliklar kafolatga kirmaydi.",
+        "source": "warranty_policy"
+    },
+    {
+        "title": "Product Authenticity",
+        "category": "Products",
+        "content": "TechStore mahsulotlarni original va yangi holatda sotishni maqsad qiladi. Mahsulotning komplektatsiyasi, seriya raqami va kafolat hujjatlarini xarid vaqtida tekshirish mumkin.",
+        "source": "product_authenticity"
+    },
+    {
+        "title": "Discount Policy",
+        "category": "Discounts",
+        "content": "TechStore ayrim mahsulotlarga mavsumiy chegirmalar va maxsus takliflar taqdim etadi. Chegirmalar mahsulot va aksiya muddatiga bog'liq. Joriy chegirmalar haqida menejerdan ma'lumot olish mumkin.",
+        "source": "discount_policy"
+    },
+    {
+        "title": "Bulk Orders",
+        "category": "Orders",
+        "content": "Ko'p miqdorda mahsulot sotib olish uchun ulgurji buyurtma berish mumkin. Ulgurji narxlar mahsulot turi va buyurtma miqdoriga bog'liq. Buning uchun menejer bilan bog'lanish kerak.",
+        "source": "bulk_orders"
+    },
+    {
+        "title": "Order Process",
+        "category": "Orders",
+        "content": "Buyurtma berish uchun mijoz mahsulotni tanlaydi, aloqa ma'lumotlarini qoldiradi va yetkazib berish manzilini ko'rsatadi. Buyurtma tasdiqlangandan so'ng do'kon xodimi mijoz bilan bog'lanadi.",
+        "source": "order_process"
+    },
+    {
+        "title": "Order Cancellation",
+        "category": "Orders",
+        "content": "Buyurtmani bekor qilish uchun imkon qadar tezroq do'kon menejeriga murojaat qilish kerak. Buyurtma yetkazib berishga chiqarilgan bo'lsa, bekor qilish shartlari o'zgarishi mumkin.",
+        "source": "order_cancellation"
+    },
+    {
+        "title": "Store Working Hours",
+        "category": "About",
+        "content": "TechStore online do'koni har kuni soat 09:00 dan 21:00 gacha mijozlarga xizmat ko'rsatadi. Online murojaatlar ish vaqtida ko'rib chiqiladi.",
+        "source": "store_information"
+    },
+    {
+        "title": "Customer Support",
+        "category": "Support",
+        "content": "Mijozlar mahsulot, buyurtma, to'lov, yetkazib berish va kafolat bo'yicha savollar bilan qo'llab-quvvatlash xizmatiga murojaat qilishlari mumkin. Murakkab masalalar menejerga yo'naltiriladi.",
+        "source": "customer_support"
+    },
+    {
+        "title": "Manager Contact",
+        "category": "Support",
+        "content": "Mijoz savoliga bazada javob topilmasa, maxsus chegirma, ulgurji savdo, individual buyurtma, to'lov muammosi, kafolat nizosi yoki buyurtma muammosi bo'lsa, TechStore menejeriga murojaat qilish kerak. Menejer telefon raqami: +998 00 000 00 00. Telegram: @TECHSTORE_MANAGER_USERNAME.",
+        "source": "manager_contact"
+    }
+]
